@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/ahmo10/Diary-2.svg?branch=dev)](https://travis-ci.com/ahmo10/Diary-2)
 # My diary App
 ## my-diary-challenge2
-## DESCRIPTION
+## escription
 MyDiary is an online journal where users can pen down their thoughts and feelings. 
 - Users can post/create a post .
 - Users can view all entries to their diary.

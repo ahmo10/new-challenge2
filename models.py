@@ -1,17 +1,20 @@
 content=[]
 class Entry:
-    entry_id=0  
-    def __init__(self,date,title,description):
+    id = 0
+    def __init__(self,date,title,description,):
+        Entry.id +=1
+        self.id= Entry.id
         self.date=date
         self.title=title
         self.description=description
 
     def create_diary(self):
         diary = {
-            "Date": self.date,
-            "Title": self.title,
+            "id":self.id,
+            "date": self.date,
+            "title": self.title,
             "description": self.description
         }
-        Entry.entry_id +=1
+    
         content.append(diary)
         return  diary
