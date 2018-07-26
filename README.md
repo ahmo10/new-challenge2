@@ -43,8 +43,6 @@ To get this project git clone to your local machine and open the file index.html
 ## TESTING THE APP
 Use insomnia or postman to the test the endpoints 
 
-## LINK TO LIVE SITE
-https://ahmo10.github.io/my-diar
 ## CONTACT DETAILS
 in case of any problems when accesing my site feel free to contact me on ahmo.osmern@gmail.com your feedback will be highly appreciated
 
