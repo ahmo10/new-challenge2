@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/ahmo10/Diary-2.svg?branch=dev)](https://travis-ci.com/ahmo10/Diary-2)
+[![Build Status](https://travis-ci.org/ahmo10/new-challenge2.svg?branch=dev)](https://travis-ci.org/ahmo10/new-challenge2)
 # My diary App
 ## my-diary-challenge2
 ## escription
@@ -23,3 +23,4 @@ To get this project git clone to your local machine and open the file index.html
 
 ## CONTACT DETAILS
 in case of any problems when accesing my site feel free to contact me on ahmo.osmern@gmail.com your feedback will be highly appreciated
+
