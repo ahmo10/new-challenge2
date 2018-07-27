@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ahmo10/new-challenge2.svg?branch=master)](https://travis-ci.org/ahmo10/new-challenge2)
+[![Build Status](https://travis-ci.org/ahmo10/new-challenge2.svg?branch=dev)](https://travis-ci.org/ahmo10/new-challenge2)
 # my app diary
 
 ## DESCRIPTION
@@ -30,6 +30,7 @@ To get this project git clone to your local machine and open the file index.html
 - run the endpoints by python3 test_app.py
 
 ## API ROUTES
+
 
 | Methods        | Url          | Description |
 | ------------- |:-------------:| -----:|
