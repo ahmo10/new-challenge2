@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/ahmo10/Diary-2.svg?branch=dev)](https://travis-ci.com/ahmo10/Diary-2)
+[![Build Status](https://travis-ci.org/ahmo10/new-challenge2.svg?branch=dev)](https://travis-ci.org/ahmo10/new-challenge2)
 # My diary App
 ## my-diary-challenge2
 ## escription
