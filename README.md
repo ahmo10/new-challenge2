@@ -21,14 +21,13 @@ To get this project git clone to your local machine and open the file index.html
 - Flask
 
 # RUNNING THE APPLICATION 
- '''
 - Clone the repository to your local machine by running  git clone https://github.com/ahmo10/new-challenge2.git 
 - navigate to the project directory
 - activate the virtual environment by running source venv/bin/activate for Ubuntu users
 - install dependencies by running pip install -r requirements.txt
 - install flask by running pip install flask
 - run the application by python3 app.py 
-- Run test by python test_app.py '''
+- Run test by python test_app.py 
 
 ## API ROUTES
 
