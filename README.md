@@ -20,7 +20,8 @@ To get this project git clone to your local machine and open the file index.html
 - Flask_restplus
 - Flask
 
-# RUNNING THE APPLICATION '''
+# RUNNING THE APPLICATION 
+ '''
 - Clone the repository to your local machine by running  git clone https://github.com/ahmo10/new-challenge2.git 
 - navigate to the project directory
 - activate the virtual environment by running source venv/bin/activate for Ubuntu users
